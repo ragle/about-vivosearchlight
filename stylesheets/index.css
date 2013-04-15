@@ -51,7 +51,7 @@ table {
 
 body {
   color: #b5d6e5;
-  background: #003046 url('/images/bg.png') top left repeat;
+  background: #003046 url('images/bg.png') top left repeat;
   font-family: 'News Cycle', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.25em;
   line-height: 1.25em;
@@ -124,7 +124,7 @@ li {
   width: 40%;
   overflow: hidden;
   text-indent: -9999em;
-  background: #05405c url('/images/logo.png') 90% 55% no-repeat;
+  background: #05405c url('images/logo.png') 90% 55% no-repeat;
   -webkit-border-top-right-radius: 20px;
   -webkit-border-bottom-right-radius: 20px;
   -moz-border-radius-topright: 20px;
